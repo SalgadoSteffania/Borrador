@@ -1,0 +1,14 @@
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\bin\Debug\Inventario.exe
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\bin\Debug\Inventario.pdb
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.Forms.FrmFactura.resources
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.Forms.FrmInventario.resources
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.Formularios.Facturacion.resources
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.Formularios.InicioSesion.resources
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.Properties.Resources.resources
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.Prueba.resources
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.csproj.GenerateResource.cache
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.exe
+C:\Users\STEFFANIA SALGADO\Desktop\TareaDeCurso\Inventario\obj\Debug\Inventario.pdb
